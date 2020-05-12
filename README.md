@@ -1,3 +1,7 @@
+
+**Plasticoding** is a robot representation (encoding method, or artificial DNA structure) that gives evolvable modular robots the capacity of phenotypic plasticity for body and brain. It is implemented as a component of the Revolve robot framework.
+
+
 <img  align="right" width="150" height="150"  src="/docs/revolve-logo.png">
 
 **Revolve** is an open source software framework for robot evolution providing C++ and Python libraries to create,
